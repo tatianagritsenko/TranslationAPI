@@ -5,7 +5,7 @@
 Программа состоит из следующих классов:
 - Answer - ответ, которые возвращает программа
 - DataBaseRepository - репозиторий базы данных
-- TranslateWordThread - класс потока, в котором переводится слово
+- TranslateWordThread - поток, в котором переводится слово
 - TranslationApiApplication - точка входа
 - TranslationController - контроллер, где обработывается GET-запроса пользователя
 - TranslationService - сервис для перевода текста
