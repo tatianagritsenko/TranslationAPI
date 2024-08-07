@@ -25,6 +25,7 @@
 - input_text - исходная строка
 - translated_text - переведённая строка (или сообщение об ошибке, если перевести не удалось)
 
+
 CREATE TABLE records (
 	id int4 GENERATED ALWAYS AS IDENTITY( INCREMENT BY 1 MINVALUE 1 MAXVALUE 2147483647 START 1 CACHE 1 NO CYCLE) NOT NULL,
 	ip_address varchar NOT NULL,
