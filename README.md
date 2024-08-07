@@ -10,5 +10,5 @@
 - from - исходный язык
 - to - целевой язык
 
-Пример: http://localhost:8080/translate?text=hello%20world&from=en&to=ru
+Пример: [http://localhost:8080/translate?text=hello%20world&from=en&to=ru](http://localhost:8080/translate?text=hello%20world&from=en&to=ru)
 
